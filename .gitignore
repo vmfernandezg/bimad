@@ -1,0 +1,26 @@
+# BMAD user config (personal, no compartir)
+_bmad/config.user.toml
+_bmad/custom/config.user.toml
+_bmad/custom/*.user.toml
+
+# MCP config local (específico de cada máquina)
+.mcp.json
+
+# Claude Code skills (solo usamos Antigravity)
+.claude/
+
+# Proyectos/prototipos generados por agentes
+youtube-indexer/
+
+# Node modules
+node_modules/
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
