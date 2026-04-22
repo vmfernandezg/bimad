@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "obsidian-graph-bimad": {
+      "url": "http://192.168.X.X:8080/mcp"
+    }
+  }
+}
