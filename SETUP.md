@@ -59,7 +59,7 @@ Ejemplo:
 {
   "mcpServers": {
     "obsidian-graph-bimad": {
-      "url": "http://192.168.1.138:8080/mcp"
+      "serverURL": "http://192.168.1.138:8080/mcp"
     }
   }
 }
